@@ -26,3 +26,5 @@ print('Ambil ghost followers.')
 with open('ghostfol.txt', 'w') as f:
     for ghost in ghosts:
         print(ghost.username, file=f)
+
+db.myCollection.insert(df.to_dict())
