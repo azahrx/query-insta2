@@ -5,8 +5,7 @@ Pengantar Kecerdasan Buatan
 Level 2 friends
 Mencari Pasangan Kata (Pair of Words). Pasangan kata dapat didapatkan dari caption setiap post suatu user. 
 
-Trivial task 1: 
--Ghost followers; banyaknya followers yang tidak aktif (inactive users) dalam memberikan likes.
+Ghost followers; banyaknya followers yang tidak aktif (inactive users) dalam memberikan likes.
 Dapat diambil dari banyaknya per followers memberikan like dalam setiap posts suatu user.
 1. import pandas dan instaloader
 2. login Instagram melalui akun
@@ -15,8 +14,7 @@ Dapat diambil dari banyaknya per followers memberikan like dalam setiap posts su
 5. menghitung ghost followers dari like terendah
 6. save program dalam mongodb
 
-Trivial task 2: 
--Top likes; urutan post likes terbanyak sampai paling rendah.
+Top likes; urutan post likes terbanyak sampai paling rendah.
 1. import pandas dan instaloader
 2. masukkan tujuan user
 3. urutkan post berdasarkan likes
