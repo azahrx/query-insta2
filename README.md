@@ -1,9 +1,9 @@
 # query-insta2
 
-Tugas 4 PKB:
+Pengantar Kecerdasan Buatan
 
 Level 2 friends
-
+Mencari Pasangan Kata (Pair of Words). Pasangan kata dapat didapatkan dari caption setiap post suatu user. 
 
 Trivial task 1: Ghost followers
 Ghost followers adalah  banyaknya followers yang tidak aktif (inactive users) dalam memberikan likes.
@@ -20,6 +20,10 @@ Top likes adalah urutan post likes terbanyak sampai paling rendah.
 1. import pandas dan instaloader
 2. masukkan tujuan user
 3. urutkan post berdasarkan likes
+
+Program telah di save dalam MongoDB MongoDB adalah penyimpanan database yang cendurung lebih cepat dalam menyimpan data dan querying. 
+1. install mongodb melalui browser
+2. save program dalam mongodb 
 
 Contact:
 1. Agatha Marcella (1313618006)
