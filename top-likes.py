@@ -16,3 +16,5 @@ for i in posts_sorted_by_likes:
 with open('toplikes.txt', 'w') as f:
     for i in posts_sorted_by_likes:
         print(i, file=f)
+
+db.myCollection.insert(df.to_dict())
